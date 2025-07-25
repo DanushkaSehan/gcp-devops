@@ -18,6 +18,6 @@ This project simulates a real-world DevOps workflow, executed in a sprint-based 
 - **Kubernetes**: For container orchestration
 - **Docker**: For containerizing the Flask application
 - **Python Flask**: For the web application
-- **GitHub Actions**: For CI/CD pipeline (replace with the specific tool used in your project if different)
+- **GitHub Actions**: For CI/CD pipeline
 - **Linux**: For environment setup and scripting
 - **GitHub**: For version control and repository management
