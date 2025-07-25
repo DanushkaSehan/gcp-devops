@@ -9,7 +9,7 @@ This project simulates a real-world DevOps workflow, executed in a sprint-based 
 ### Key Features
 - **Python Flask Application**: A web application built with Python Flask, containerized using Docker.
 - **Kubernetes Deployment**: Deployed the application on a Google Kubernetes Engine (GKE) cluster for scalability and reliability.
-- **CI/CD Pipeline**: Automated build, test, and deployment processes using GitHub Actions (or another CI/CD tool as per the course).
+- **CI/CD Pipeline**: Automated build, test, and deployment processes using GitHub Actions.
 - **GCP Integration**: Leveraged GCP services like GKE, Cloud Build, and Container Registry for cloud-native deployment.
 - **Sprint-Based Workflow**: Organized tasks into sprints, following industry-standard practices for planning and reviewing deliverables.
 
